@@ -1,33 +1,27 @@
-<div align="center">
-
 # Hi, I'm DevBrewer 👋
-### Just passionate about coding, exploring ideas, and learning new things.
 
-[![Rust](https://img.shields.io/badge/Learning-Rust-orange?style=flat-square&logo=rust)](https://www.rust-lang.org/)
-[![Macroquad](https://img.shields.io/badge/Graphics-Macroquad-blue?style=flat-square)](https://macroquad.rs/)
-
-</div>
+I'm a developer driven by curiosity, a passion for coding, and the joy of learning how things work under the hood. I enjoy building things across different languages and exploring new technologies.
 
 ---
 
-### 🌱 What I'm Doing
+### 💻 Technologies & Interests
 
-- 📚 **Currently Learning**: Working through Daniel Shiffman's [*The Nature of Code*](https://natureofcode.com/) book and porting the examples and exercises to **Rust** using **Macroquad**.
-- 💡 **Why**: To learn Rust hands-on and enjoy seeing math, physics, and algorithms come to life visually on screen.
-- 🛠️ **Tools I'm Using**: Rust, Cargo, Macroquad, and Linux.
+- **Languages & Tools**: TypeScript, JavaScript, Rust, HTML/CSS, Git, Linux
+- **Current Interests**: 
+  - Diving deeper into **Rust** through creative coding, math, and simulations.
+  - Building clean, responsive applications with **TypeScript**.
+  - Exploring different domains, algorithms, and whatever sparks my curiosity next.
 
 ---
 
-### 📂 Main Study Project
+### 📂 Projects & Studies
 
-#### [nature-of-code-macroquad](https://github.com/DevBrewer/nature-of-code-macroquad)
-> *Following along with Daniel Shiffman's classic book, chapter by chapter, in Rust.*
+#### 🦀 [nature-of-code-macroquad](https://github.com/DevBrewer/nature-of-code-macroquad)
+*My current hands-on study notebook in Rust.*
 
-All credit for the concepts, exercises, and teaching goes to **Daniel Shiffman** and *The Nature of Code*. This repository is simply my personal study notebook where I implement the examples:
+Following along with Daniel Shiffman's classic [*The Nature of Code*](https://natureofcode.com/) book and porting the exercises to Rust using the **Macroquad** engine. All credit for the teaching and concepts goes to Daniel Shiffman.
 
-- **Vectors & Forces**: Bouncing balls, friction, drag, and gravity.
-- **Oscillations & Waves**: Harmonic motion, spring connections, and wave superposition.
-- **Pendulums**: Simple pendulum and chaotic double pendulum simulations.
+- **Topics covered**: Vectors, Newton's laws (friction, drag, gravity), harmonic oscillation, spring lattices, and chaotic double pendulums.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DevBrewer/nature-of-code-macroquad/main/assets/double_pendulum_pattern.jpg" alt="Double Pendulum Pattern Trace" width="260" />
@@ -36,9 +30,11 @@ All credit for the concepts, exercises, and teaching goes to **Daniel Shiffman**
 </p>
 
 ---
+### 🌱 What I'm Doing
 
-### 📊 GitHub Activity
+- 📚 **Currently Learning**: Working through Daniel Shiffman's [*The Nature of Code*](https://natureofcode.com/) book and porting the examples and exercises to **Rust** using **Macroquad**.
+- 💡 **Why**: To learn Rust hands-on and enjoy seeing math, physics, and algorithms come to life visually on screen.
+- 🛠️ **Tools I'm Using**: Rust, Cargo, Macroquad, and Linux.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevBrewer&show_icons=true&theme=tokyonight&hide_border=true" alt="DevBrewer's GitHub Stats" height="145" />
-</div>
+### 🚀 What's Next?
+I like tinkering with new libraries, languages, and project ideas. More experiments in TypeScript, Rust, and other tools will appear here as I build and learn!
